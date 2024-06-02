@@ -25,9 +25,9 @@ form{
     margin-top: 4%;
 }
 
-input{
+input , select{
     height: max-content;
-    width: 16%;
+    width: 20%;
 }
 
 .ex,.des, .cat{
